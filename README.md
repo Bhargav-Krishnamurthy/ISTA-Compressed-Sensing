@@ -1,7 +1,7 @@
 # ISTA-Compressed-Sensing
 
 
-This project implements the **Iterative Soft Thresholding Algorithm (ISTA)** for **compressed sensing reconstruction** in both software (Python).  
+This project implements the **Iterative Soft Thresholding Algorithm (ISTA)** for **compressed sensing reconstruction** in Python.  
 This repository contains the full software reference, test vectors, evaluation results, and final report materials.
 
 ---
